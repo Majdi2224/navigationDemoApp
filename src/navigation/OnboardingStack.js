@@ -7,7 +7,6 @@ import EnterCompanyID from '../screens/EnterCompanyId';
 import PickVoice from '../screens/PickVoice';
 import MainScreen from '../screens/MainScreen';
 import VoicebotScreen from '../screens/VoicebotScreen';
-import SettingsScreen from '../screens/SettingsScreen';
 
 const Stack = createNativeStackNavigator();
 
